@@ -1,0 +1,7 @@
+[requires]
+opencv/4.5.1
+
+[generators]
+cmake
+cmake_find_package
+cmake_paths
